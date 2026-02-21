@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-tattoo",
+  "version": "1.0.0",
+  "description": "Portfolio website for tattoo artist",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev --prefix portfolio-website",
+    "build": "next build --prefix portfolio-website",
+    "start": "next start --prefix portfolio-website"
+  },
+  "author": "Roblouie47",
+  "license": "MIT"
+}
